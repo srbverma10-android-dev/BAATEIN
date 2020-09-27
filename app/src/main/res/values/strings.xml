@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BAATEIN</string>
+    <string name="title_activity_splash_screen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="slogan">Chup na rhe, BAATEIN kre</string>
+    <string name="bysourabhverma">FROM\nSOURABH VERMA</string>
+    <string name="ireadalltermsandcondition">I accept all terms and conditions.</string>
+    <string name="signinwithgoogle">Sign In With Google</string>
+    <string name="contentDiscriptionfornameandLogo">nameandlogo</string>
+    <string name="contentdesforprofilelogin">profile</string>
+    <string name="contentdesfornointernet">nointernet</string>
+    <string name="whoops">WHOOPS</string>
+    <string name="nointernettext">NO INTERNET TEXT.\nYOU NEED INTERNET CONNECTION TO USE THIS APP.\n RESTART APP WITH INTERNET CONNECTION</string>
+    <string name="findfriends">Find Friends</string>
+    <string name="next">NEXT</string>
+    <string name="searchbyemail">Search Users By Email…</string>
+    <string name="search">SEARCH</string>
+    <string name="follow">Friends</string>
+    <string name="following">UnFriend</string>
+    <string name="requestsend">Requested</string>
+    <string name="confirm">Confirm</string>
+    <string name="post">Post</string>
+    <string name="friends">Friends</string>
+    <string name="requests">Requests</string>
+    <string name="friendrequests">Friend Requests</string>
+    <string name="processing">Processing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

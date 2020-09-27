@@ -1,0 +1,29 @@
+package com.sourabh.baatein;
+
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.RelativeLayout;
+import android.widget.TextView;
+
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
+
+public class ShowAllFriendRequestViewHolder extends RecyclerView.ViewHolder {
+
+    public ImageView profileImage;
+    public TextView name, email;
+    public Button followButton;
+    public RelativeLayout showAllFriendRequestForMoreOptions;
+
+    public ShowAllFriendRequestViewHolder(@NonNull View itemView) {
+        super(itemView);
+
+        profileImage = itemView.findViewById(R.id.profileImage);
+        name = itemView.findViewById(R.id.name);
+        email = itemView.findViewById(R.id.email);
+        followButton = itemView.findViewById(R.id.followButton);
+        showAllFriendRequestForMoreOptions = itemView.findViewById(R.id.relativeLayoutForMoreOptions);
+
+    }
+}
